@@ -10,5 +10,5 @@
   - 0 配置开发环境与打包
   - 一键上传服务器
 - 模块化打包器
-  - Parcel 架构与流程
+  - [Parcel 架构与流程](https://github.com/Li13/blog/tree/master/Parcel)
   - 手写模块打包

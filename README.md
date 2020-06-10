@@ -1,7 +1,5 @@
 # 个人博客
 
-喜欢请点 star
-
 目录
 
 - [js 模块化](https://github.com/Li13/module)
@@ -11,4 +9,9 @@
   - 一键上传服务器
 - 模块化打包器
   - [Parcel 架构与流程](https://github.com/Li13/blog/tree/master/Parcel)
-  - 手写模块打包
+  - AST编译与依赖收集
+  - 多线程
+  - HRM
+  - 缓存
+  - scopeHoist和tree shaking
+
